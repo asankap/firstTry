@@ -1,0 +1,2 @@
+# firstTry
+trying with git
